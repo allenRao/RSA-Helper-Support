@@ -16,7 +16,7 @@ Assume that user A and user B plan to have encrypted communication through WeCha
 User A creates his own key pair locally, including public key a and private key a.
 User B also creates his own key pair locally, including public key b and private key b.
 Then A and B exchange public keys through WeChat, and save each other's public keys.
-User A uses private key b to encrypt the message into ciphertext, and the ciphertext is sent to user B via WeChat.
+User A uses public key b to encrypt the message into ciphertext, and the ciphertext is sent to user B via WeChat.
 User B decrypts the ciphertext with his own private key b.
 User A and user B can also use the same method to encrypt files for transmission.
 
