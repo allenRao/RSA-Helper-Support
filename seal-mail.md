@@ -3,7 +3,7 @@
 
 email: allen.rao2011@gmail.com
 
-Seal is a end-to-end encryption email client to prevent email service providers from scanning your messages.
+Seal is an end-to-end encryption email client to prevent email service providers from scanning your messages.
 Seal is dedicated to keep your email secure & private in LLM era.
 Seal, end-to-end encryption email client makes it impossible for anyone to read your emails except the sender and recipient, like Outlook with encryption.
 Emails are encypted on the client side using  the encryption keys that email accounts providers have no access to. This means the email service providers do not have the ability to spy your messages.
