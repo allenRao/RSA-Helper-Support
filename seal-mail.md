@@ -1,8 +1,5 @@
 # Seal Mail	
 
-
-email: allen.rao2011@gmail.com
-
 Seal is an end-to-end encryption email client to prevent email service providers from scanning your messages.
 Seal is dedicated to keep your email secure & private in LLM era.
 Seal, end-to-end encryption email client makes it impossible for anyone to read your emails except the sender and recipient, like Outlook with encryption.
@@ -28,4 +25,7 @@ Experience the privacy and security in your email conversations with our app.
 -----------------------------------------------
 Privacy:
        We will never collect and upload your encryption keys and data. All your data are encrypted and stored in your device and private iCloud.
+
+------------------------------------------------
+Report bugs: allen.rao2011@gmail.com
 

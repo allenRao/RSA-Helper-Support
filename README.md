@@ -1,12 +1,8 @@
-# RSA-Helper-Support	
-
-RSA helper support	
-
-email: allen.rao2011@gmail.com
+# Let's Encrypt	
 
 Use RSA asymmetric encryption algorithm to encrypt text, photos, videos, and files.
  All your rsa keys and data are encrypted & stored in your device and private iCloud.
- --------------------------------------------------
+ -----------------------------------------
 You create your own RSA key pair in your device, then exchange public keys with friends.
 Send encrypted messages and files on chat apps or emails, so that no third party can spy on your data.
 
@@ -63,3 +59,6 @@ User A and user B can also use the same method to encrypt files for transmission
 ----------------------------------------------------
 Privacy:
        We will never upload your rsa keys and data. All your data are encrypted and stored in your device and your private iCloud.
+------------------------------------------
+Report bugs: allen.rao2011@gmail.com
+
